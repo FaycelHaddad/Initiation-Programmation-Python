@@ -42,7 +42,7 @@ Exemple d'exécution
     les notes de l'élève sont:
     15
     13
-    Les notes triées de l'élève: [13, 1514
+    Les notes triées de l'élève: [13, 15]
     La note maximale est : 15
     La moyenne est : 14.0
     L'élève est admis !
